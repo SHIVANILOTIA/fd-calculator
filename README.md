@@ -1,1 +1,1 @@
-<a href="https://manishmksaini.github.io/fd-calculator/">Preview</a>
+https://shivanilotia.github.io/fd-calculator/
